@@ -2,6 +2,9 @@
 /build/
 
 node_modules
+truffle-config.js
+package-lock.json
+/migrations/
 
 #Buidler files
 cache
